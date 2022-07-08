@@ -5,7 +5,7 @@ services:
   node:
     build: .
     tty: true
-    # ports:
-    #   - 8000:8000
+    ports:
+      - 3000:3000
     volumes:
-      - ../:/node
+      - ../:/projects
