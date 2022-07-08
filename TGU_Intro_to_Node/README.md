@@ -1,42 +1,73 @@
 # TGU Intro to Node
 
-Udemy  
-Node.js 入門 ー演習しながら学ぶ基本クラスの使い方ー  
+**Udemy**  
+**Node.js 入門 ー演習しながら学ぶ基本クラスの使い方ー**  
 https://www.udemy.com/course/introductory-nodejs/  
 
 
-## Section 1: はじめに
+## About Course
+
+Node.jsの根幹にかかわる機能の使い方だけでなく動作原理まで学習することで基礎力をつけることを目指します！  
 
 
-## Section 2: 初めてのNode.js
+## Environment Setup
 
 
-## Section 3: Node.jsを取り巻く世界
+## Course Contents
 
 
-## Section 4: Node.jsプロジェクト始動！
+### Section 1: はじめに
+
+✅ 受講完了 1回  
 
 
-## Section 5: Node.js基礎
+### Section 2: 初めてのNode.js
+
+✅ 受講完了 1回  
 
 
-## Section 6: モジュール
+### Section 3: Node.jsを取り巻く世界
+
+✅ 受講完了 1回  
 
 
-## Section 7: npm
+### Section 4: Node.jsプロジェクト始動！
+
+✅ 受講完了 1回  
 
 
-## Section 8: イベント
+### Section 5: Node.js基礎
+
+✅ 受講完了 1回  
 
 
-## Section 9: ファイル操作
+### Section 6: モジュール
+
+✅ 受講完了 1回  
 
 
-## Section 10: HTTP
+### Section 7: npm
+
+✅ 受講完了 1回  
 
 
-## Section 11: マルチスレッド
+### Section 8: イベント
+
+✅ 受講完了 1回  
 
 
-## Section 12: おわりに
+### Section 9: ファイル操作
+
+
+### Section 10: HTTP
+
+
+### Section 11: マルチスレッド
+
+✅ 受講完了 1回  
+
+
+### Section 12: おわりに
+
+✅ 受講完了 1回  
 
