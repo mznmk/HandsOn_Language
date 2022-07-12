@@ -16,8 +16,6 @@ How to become a Python 3 Developer and get hired! Build 12+ projects, learn Web 
 
 ## Course Contents
 
-✅ 受講完了 1回  
-
 
 ### Section 1: Introduction
 
@@ -36,10 +34,12 @@ How to become a Python 3 Developer and get hired! Build 12+ projects, learn Web 
 
 ### Section 4: Python Basics II
 
-✓ 受講途中:  
+✅ 受講完了 1回  
 
 
 ### Section 5: Developer Environment
+
+✓ 受講途中:  
 
 
 ### Section 6: Advanced Python: Object Oriented Programming
