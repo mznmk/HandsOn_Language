@@ -3,18 +3,17 @@
 いろんなハンズオンに取り組みながら、プログラミング言語を学習しようという試みです。  
 
 
-## Assembly
+## ⭐ Assembly ⭐
 
 
 ### NASM Assembly Language Tutorials
 
-asmtutor. com  
-https://asmtutor.com/  
-✅ 受講完了 1回  
-✓ 受講途中…  
+[**NASM Assembly Language Tutorials**](./NASM_Assembly_Language_Tutorials/)  
+
+✅  
 
 
-## Python
+## ⭐ Python ⭐
 
 
 ### ZTM Complete Python
@@ -29,7 +28,7 @@ https://asmtutor.com/
 [PythonによるWebスクレイピング〜入門編〜](./IMN_Python_Scraping/)  
 
 
-## JavaScript / TypeScript
+## ⭐ JavaScript / TypeScript ⭐
 
 
 ### MS Understanding TS 2020
