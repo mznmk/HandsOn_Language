@@ -13,6 +13,13 @@
 ✅  
 
 
+## ⭐ SQL / Database ⭐
+
+[**Complete SQL and Databases Bootcamp: Zero to Mastery [2022]**](./ZTM_Comp_SQL_DB/)  
+
+✓  
+
+
 ## ⭐ Python ⭐
 
 
@@ -29,6 +36,13 @@
 
 
 ## ⭐ JavaScript / TypeScript ⭐
+
+
+### TGU Intro to Node
+
+[Node.js 入門 ー演習しながら学ぶ基本クラスの使い方ー](./TGU_Intro_to_Node/)  
+
+✅  
 
 
 ### MS Understanding TS 2020
@@ -54,11 +68,4 @@ Udemy
 https://www.udemy.com/course/javascript-essence/  
 ✅ 受講完了 0回  
 ✓ 受講途中…  
-
-
-### TGU Intro to Node
-
-[Node.js 入門 ー演習しながら学ぶ基本クラスの使い方ー](./TGU_Intro_to_Node/)  
-
-✓  
 
