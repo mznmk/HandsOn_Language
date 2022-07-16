@@ -49,10 +49,12 @@ How to become a Python 3 Developer and get hired! Build 12+ projects, learn Web 
 
 ### Section 7: Advanced Python: Functional Programming
 
-✓ 受講途中:  
+✅ 受講完了 1回  
 
 
 ### Section 8: Advanced Python: Decorators
+
+✓ 受講途中:  
 
 
 ### Section 9: Advanced Python: Error Handling
@@ -95,6 +97,8 @@ How to become a Python 3 Developer and get hired! Build 12+ projects, learn Web 
 
 
 ### Section 22: Where To Go From Here?
+
+✅ 受講完了 1回  
 
 
 ### Section 23: Extra Bits
