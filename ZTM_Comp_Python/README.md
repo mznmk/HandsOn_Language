@@ -64,10 +64,12 @@ How to become a Python 3 Developer and get hired! Build 12+ projects, learn Web 
 
 ### Section 10: Advanced Python Generators
 
-✓ 受講途中:  
+✅ 受講完了 1回  
 
 
 ### Section 11: Modules In Python
+
+✓ 受講途中:  
 
 
 ### Section 12: Debugging In Python
