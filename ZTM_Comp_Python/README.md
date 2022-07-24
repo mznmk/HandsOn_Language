@@ -69,7 +69,7 @@ How to become a Python 3 Developer and get hired! Build 12+ projects, learn Web 
 
 ### Section 11: Modules In Python
 
-✓ 受講途中:  
+✅ 受講完了 1回  
 
 
 ### Section 12: Debugging In Python
@@ -79,8 +79,12 @@ How to become a Python 3 Developer and get hired! Build 12+ projects, learn Web 
 
 ### Section 13: File I/O
 
+✅ 受講完了 1回  
+
 
 ### Section 14: Regular Expressions
+
+✓ 受講途中:  
 
 
 ### Section 15: Testing In Python
