@@ -11,6 +11,9 @@ https://www.udemy.com/course/complete-python-developer-zero-to-mastery/
 How to become a Python 3 Developer and get hired! Build 12+ projects, learn Web Development, Machine Learning + more!  
 
 
+## Reference
+
+
 ## Environment Setup
 
 
@@ -35,6 +38,12 @@ How to become a Python 3 Developer and get hired! Build 12+ projects, learn Web 
 ### Section 4: Python Basics II
 
 ✅ 受講完了 1回  
+
+Python Quiz  
+https://www.w3schools.com/quiztest/quiztest.asp?qtest=PYTHON  
+
+Python Exercise:  
+https://www.w3schools.com/python/exercise.asp  
 
 
 ### Section 5: Developer Environment
@@ -66,6 +75,9 @@ How to become a Python 3 Developer and get hired! Build 12+ projects, learn Web 
 
 ✅ 受講完了 1回  
 
+Break The Ice With Python  
+https://github.com/darkprinx/break-the-ice-with-python  
+
 
 ### Section 11: Modules In Python
 
@@ -84,10 +96,21 @@ How to become a Python 3 Developer and get hired! Build 12+ projects, learn Web 
 
 ### Section 14: Regular Expressions
 
-✓ 受講途中:  
+✅ 受講完了 1回  
+
+Python Regex  
+https://www.w3schools.com/python/python_regex.asp  
+
+Regex101  
+https://regex101.com/  
+
+RegexOne  
+https://regexone.com/  
 
 
 ### Section 15: Testing In Python
+
+✓ 受講途中:  
 
 
 ### Section 16: Career Of A Python Developer
